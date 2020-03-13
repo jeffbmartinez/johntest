@@ -1,6 +1,6 @@
 * one
 * two
-* three
+* 3
 * four
 * five
 * six
